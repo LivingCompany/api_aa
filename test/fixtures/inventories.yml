@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  product: one
+  in_stock: 9.99
+
+two:
+  product: two
+  in_stock: 9.99
